@@ -1,1 +1,16 @@
 /* write your override styles here */
+/* Example: Override background color */
+body {
+  background-color: #fff !important;
+}
+
+/* Example: Remove borders from all images */
+img {
+  border: none !important;
+}
+
+/* Example: Reset font styles */
+* {
+  font-family: Arial, sans-serif !important;
+  color: #222 !important;
+}
